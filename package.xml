@@ -10,7 +10,7 @@
 
   <buildtool_depend>cmake</buildtool_depend>
 
-  <depend>torch_cpp</depend>
+  <depend>libtorch</depend>
   <depend>libopencv-dev</depend>
   <depend>eigen</depend>
 
